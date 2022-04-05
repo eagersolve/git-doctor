@@ -3,3 +3,5 @@
 function summ($a, $b) {
     return $a + $b;
 }
+
+echo "hey ";
